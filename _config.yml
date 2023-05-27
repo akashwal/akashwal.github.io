@@ -1,6 +1,15 @@
-title: Akash Agrawal
+title: <p align="center"> Akash Agrawal </p>
 logo: /assets/img/WhatsApp Image 2023-02-27 at 09.54.22.jpg
-description: This is Akash GitHub Portfolio.
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/akashwal/">LinkedIn</a> |
+  <a href="https://github.com/akashwal">GitHub</a>
+
+  <br>   
+  I am currently working as model risk analyst in Barclays.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
